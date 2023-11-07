@@ -1,2 +1,6 @@
 congig.py
 venv/*
+/venv/
+/config.py/
+/config.py
+
